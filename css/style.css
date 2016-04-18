@@ -15,7 +15,7 @@
 
 
 body{
-background-image: url(Imagen/fondoPatitas.jpg);
+background-image: url(../Imagen/fondoPatitas.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
